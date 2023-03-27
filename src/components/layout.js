@@ -6,6 +6,7 @@ import {
     heading,
     navLinks
 } from "./layout.module.css"
+import "./styles/styles.css"
 
 const Layout = ({ pageTitle, children }) => {
   return (

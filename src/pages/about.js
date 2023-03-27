@@ -5,7 +5,7 @@ const AboutPage = () => {
   return (
     <Layout pageTitle="About Me">
       <div>
-        <p>hello tehre</p>
+        <p className='testfont-blue'>hello tehre</p>
       </div>
     </Layout>
   )
